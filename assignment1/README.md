@@ -1,0 +1,2 @@
+- Connect to the Azure cloud with the help of the “az login” command
+- Update your public key variable in variables.tf file.
